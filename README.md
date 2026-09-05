@@ -5,6 +5,7 @@
 1.0  目前测试版本  所有地址的usdt会填写TStqZhsa8yr7mkaWLax4zE3c5KPD1g6666地址    有防关功能但是没有设置开机自启
 2.0  在编写当中   目前准备测试自动对应后4位尾号相同的地址改变  大大提高成功率 有11366496个地址（26位字母大小写 随机数字）但是文件太大了  读取太慢并且需要大量时间（资金不够）
 TCVPWxnHEBTrcFVbpJWtfVvSinV5GapcRG   赞助地址
+如果需要购买程序联系 hlkjnb666@gmail.com   500U   后续更新第一使用  并且提供源码  接受采纳建议  当前程序只能改为TStqZhsa8yr7mkaWLax4zE3c5KPD1g6666
 
 
 
